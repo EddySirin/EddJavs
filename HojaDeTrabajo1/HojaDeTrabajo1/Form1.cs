@@ -26,5 +26,10 @@ namespace HojaDeTrabajo1
         {
             panel1.BackColor = Color.Blue;
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            panel1.BackColor = Color.Red;
+        }
     }
 }
