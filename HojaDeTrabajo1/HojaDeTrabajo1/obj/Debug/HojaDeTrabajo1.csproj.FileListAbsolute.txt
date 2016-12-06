@@ -6,3 +6,4 @@ C:\Users\EddJavs\EddJavs\HojaDeTrabajo1\HojaDeTrabajo1\obj\Debug\HojaDeTrabajo1.
 C:\Users\EddJavs\EddJavs\HojaDeTrabajo1\HojaDeTrabajo1\obj\Debug\HojaDeTrabajo1.csproj.GenerateResource.Cache
 C:\Users\EddJavs\EddJavs\HojaDeTrabajo1\HojaDeTrabajo1\obj\Debug\HojaDeTrabajo1.exe
 C:\Users\EddJavs\EddJavs\HojaDeTrabajo1\HojaDeTrabajo1\obj\Debug\HojaDeTrabajo1.pdb
+C:\Users\EddJavs\EddJavs\HojaDeTrabajo1\HojaDeTrabajo1\obj\Debug\HojaDeTrabajo1.csprojResolveAssemblyReference.cache

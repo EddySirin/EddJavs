@@ -35,11 +35,22 @@ namespace HojaDeTrabajo1
         private void button3_Click(object sender, EventArgs e)
         {
             panel1.BackColor = Color.Green;
+            label2.Visible=true;
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
             panel1.BackColor = Color.Yellow;
+        }
+
+       private void panel1_Paint(object sender, PaintEventArgs e)
+         {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
