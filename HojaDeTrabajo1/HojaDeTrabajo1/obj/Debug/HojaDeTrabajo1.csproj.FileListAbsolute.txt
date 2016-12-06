@@ -1,0 +1,8 @@
+C:\Users\EddJavs\EddJavs\HojaDeTrabajo1\HojaDeTrabajo1\bin\Debug\HojaDeTrabajo1.exe.config
+C:\Users\EddJavs\EddJavs\HojaDeTrabajo1\HojaDeTrabajo1\bin\Debug\HojaDeTrabajo1.exe
+C:\Users\EddJavs\EddJavs\HojaDeTrabajo1\HojaDeTrabajo1\bin\Debug\HojaDeTrabajo1.pdb
+C:\Users\EddJavs\EddJavs\HojaDeTrabajo1\HojaDeTrabajo1\obj\Debug\HojaDeTrabajo1.Form1.resources
+C:\Users\EddJavs\EddJavs\HojaDeTrabajo1\HojaDeTrabajo1\obj\Debug\HojaDeTrabajo1.Properties.Resources.resources
+C:\Users\EddJavs\EddJavs\HojaDeTrabajo1\HojaDeTrabajo1\obj\Debug\HojaDeTrabajo1.csproj.GenerateResource.Cache
+C:\Users\EddJavs\EddJavs\HojaDeTrabajo1\HojaDeTrabajo1\obj\Debug\HojaDeTrabajo1.exe
+C:\Users\EddJavs\EddJavs\HojaDeTrabajo1\HojaDeTrabajo1\obj\Debug\HojaDeTrabajo1.pdb
