@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Diagnostics;
 
 namespace HojaDeTrabajo1
 {
@@ -51,6 +52,11 @@ namespace HojaDeTrabajo1
         private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("C:\\Users\\EddJavs\\EddJavs\\Preguntas.txt ");
         }
     }
 }

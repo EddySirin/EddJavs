@@ -1,0 +1,11 @@
+¿Qué entiende como "commit"?
+	Commit es establecer un conjunto de cambios que se realizaron a un proyecto, que son guardados y pueden ser subidos para la visualizacion de mas desarroladores.
+	
+
+¿Qué entiende como "merge"?
+	Merge es cuando se tiene un proyecto dividido en partes, y se desea juntar, Merge es la accion de juntar esas partes en un solo proyecto.
+
+
+¿Cuál es la diferencia entre "Pull" y "Push"?
+	Pull es la accion de descargar la ultima actualizacion del proyecto, para posteriormente poder editarla.
+	Push es la accion de subir una actualizacion del proyecto, para que alguien mas pueda descargarla posteriormente y editarla.
